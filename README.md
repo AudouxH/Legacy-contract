@@ -1,15 +1,6 @@
-# Basic Sample Hardhat Project
+# Legacy contract
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, a sample script that deploys that contract, and an example of a task implementation, which simply lists the available accounts.
+#### Second project with hard-hat environment, tryed to create legacy smart contract which stock cryptocurrency for a given amount of time and receiver address. Once the time is done, receiver can get back to stocked cryptocurrency
 
 Try running some of the following tasks:
-
-```shell
-npx hardhat accounts
-npx hardhat compile
-npx hardhat clean
 npx hardhat test
-npx hardhat node
-node scripts/sample-script.js
-npx hardhat help
-```
